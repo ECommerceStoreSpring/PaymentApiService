@@ -8,11 +8,11 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ds</groupId>
-	<artifactId>paymentapi</artifactId>
+	<groupId>com.ecommerce</groupId>
+	<artifactId>paymentapiservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>paymentapi</name>
-	<description>dummy API for Payment</description>
+	<name>paymentapiservice</name>
+	<description>Payment API service for ecommerce</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
